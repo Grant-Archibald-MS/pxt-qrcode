@@ -1,0 +1,21 @@
+{
+    "name": "qrcode",
+    "version": "0.1.0",
+    "description": "An extension for creating QR codes using images",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "qrcode.ts"
+    ],
+    "testFiles": [
+    ],
+    "targetVersions": {
+        "target": "1.2.6",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
